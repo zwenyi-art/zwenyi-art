@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zwe+Nyi!;" />
 </h1>
 <div align="right">
-    <img src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
+    <img width="200" height="200" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 </div>
 <h3 align="center">A passionate software developer from Myanmar</h3>
 
