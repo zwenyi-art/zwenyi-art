@@ -1,12 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zwenyi-art.zwenyi-art" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zwe+Nyi!;" />
-</h1>
-<div align="right">
-    <img width="200" height="200" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
+<div>
+    <img align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=zwenyi-art.zwenyi-art" />
 </div>
-<h3 align="center">A passionate software developer from Myanmar</h3>
+</br>
+ <div align="center">
+   <img height="200" align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+   <h1 align="center">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Proggy&pause=1000&color=80F79B&center=true&vCenter=true&random=false&width=435&lines=Hello%2CWarmly+Welcome%F0%9F%A5%B0;I'm+Zwe+Nyi.;Nice+to+meet+you!" />
+</h1>         
+   <h3 align="center" >A passionate software developer from Myanmar</h3>
+ </div>
 
 <br/>
 
@@ -36,21 +38,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+</br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git" />
+</br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,mysql" /><br>
 </div>
-
 <br/>
-<hr/>
-
-
-
-<hr/>
-
-
 <hr/>
 
 <br/>
 
 
-<br/>
