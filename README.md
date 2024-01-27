@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **a freelance Web Developer**
  
- 🌱 I’m currently learning **Data Sturcture and Algorithm with JavaScript,English**
+ 🌱 I’m currently learning **Data Sturcture and Algorithm with JavaScript**
 
 
  </div>
