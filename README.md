@@ -1,32 +1,56 @@
-# Hello, I'm [Your Name] 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zwe+Nyi!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
 
 <div align="center">
-  <img src="path-to-your-image" alt="Profile Image" width="200" height="200">
+ 
+ 🔭 I’m currently working on **a freelance Web Developer**
+ 
+ 🌱 I’m currently learning **Data Sturcture and Algorithm**
+
+
+
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:zwenyinyihtwe.axis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
-## About Me
-I am a web developer with experience in freelance projects. I specialize in building dynamic and responsive web applications using React, Python, JavaScript, Bootstrap, and Tailwind CSS.
-
-## Skills
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-  <img src="react-icon" alt="React" width="50" height="50">
-  <img src="python-icon" alt="Python" width="50" height="50">
-  <img src="javascript-icon" alt="JavaScript" width="50" height="50">
-  <img src="bootstrap-icon" alt="Bootstrap" width="50" height="50">
-  <img src="tailwind-css-icon" alt="Tailwind CSS" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,mysql" /><br>
 </div>
 
-## Projects
-Here are some of the projects I have worked on:
+<br/>
+<hr/>
 
-- [Project 1](link-to-project-1): A brief description of the project.
-- [Project 2](link-to-project-2): A brief description of the project.
-- [Project 3](link-to-project-3): A brief description of the project.
 
-## Contact Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Website: [your-website.com](https://your-website.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-github-profile)
 
-Feel
+<hr/>
+
+
+<hr/>
+
+<br/>
+
+
+<br/>
